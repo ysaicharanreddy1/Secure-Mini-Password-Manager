@@ -1,4 +1,4 @@
-# 🔐 Secure Mini Password Manager
+# Secure Mini Password Manager
 
 A refactored and optimized Java-based Password Manager project developed using Data Structures & Algorithms concepts, secure password hashing, and clean code principles.
 
@@ -14,7 +14,7 @@ This project was enhanced from a simple open-source Java Password Manager and re
 
 ---
 
-# 📌 Project Objective
+# Project Objective
 
 The objective of this project is to securely manage user credentials while demonstrating:
 
@@ -31,9 +31,9 @@ This project was developed as part of:
 
 ---
 
-# 🚀 Features
+# Features
 
-## ✅ User Features
+## User Features
 
 * User Registration
 * Secure User Login
@@ -48,7 +48,7 @@ This project was developed as part of:
 
 ---
 
-# 🧠 Data Structures Used
+# Data Structures Used
 
 | Data Structure | Usage                                 |
 | -------------- | ------------------------------------- |
@@ -58,9 +58,9 @@ This project was developed as part of:
 
 ---
 
-# ⚡ DSA & Performance Optimization
+# DSA & Performance Optimization
 
-## 🔹 Fast Credential Searching
+## Fast Credential Searching
 
 The project uses:
 
@@ -83,7 +83,7 @@ This significantly improves performance for larger datasets.
 
 ---
 
-# 🔒 Security Improvements
+# Security Improvements
 
 ## Implemented Security Features
 
@@ -95,7 +95,7 @@ This significantly improves performance for larger datasets.
 
 ---
 
-# 🛠 Refactoring Improvements
+# Refactoring Improvements
 
 ## Original Code Problems
 
@@ -113,7 +113,7 @@ The original project had:
 
 ---
 
-# ✅ Enhancements Made
+# Enhancements Made
 
 ## Code Quality Improvements
 
@@ -136,59 +136,9 @@ The original project had:
 * Credential Statistics
 * Password Strength Meter
 * Better Console UI
-
 ---
 
-# 📈 Algorithm Optimization
-
-## Password Strength Checker
-
-Optimized using:
-
-```java
-Single-pass traversal
-```
-
-### Complexity
-
-```text
-O(n)
-```
-
-Instead of multiple traversals over the same string.
-
----
-
-# 🖥 Console UI Improvements
-
-The user interface was redesigned using:
-
-* structured menus
-* better formatting
-* organized output sections
-* professional console presentation
-
----
-
-# 📂 Project Structure
-
-```text
-MiniPasswordManager.java
-```
-
-Contains:
-
-* Main Application Logic
-* User Management
-* Credential Management
-* Security Utilities
-* Password Generator
-* 2FA Verification
-* Data Classes
-
----
-
-# 🔑 Technologies Used
+# Technologies Used
 
 * Java
 * HashMap
@@ -199,21 +149,15 @@ Contains:
 
 ---
 
-# 📸 Screenshots
+# Working Samples 
 
-Add your screenshots here.
+<img width="1365" height="720" alt="image" src="https://github.com/user-attachments/assets/da50f5c3-23ee-4ca7-8a1c-f351e5be215c" />
 
-Example:
-
-```text
-screenshots/login.png
-screenshots/password-generator.png
-screenshots/credential-management.png
-```
+<img width="1365" height="718" alt="image" src="https://github.com/user-attachments/assets/5eafe74d-ab47-4830-9224-4289c3e85d5d" />
 
 ---
 
-# ▶️ How To Run
+# How To Run
 
 ## 1. Clone Repository
 
@@ -238,7 +182,7 @@ MiniPasswordManager.java
 
 ---
 
-# 🎯 Learning Outcomes
+# Learning Outcomes
 
 Through this project, the following concepts were learned and implemented:
 
@@ -253,7 +197,7 @@ Through this project, the following concepts were learned and implemented:
 
 ---
 
-# 📌 Future Improvements
+# Future Improvements
 
 Possible future enhancements:
 
@@ -265,15 +209,5 @@ Possible future enhancements:
 * Cloud Backup
 
 ---
-
-# 👨‍💻 Author
-
-Developed and Refactored by:
-
-**YESUGARI SAI CHARAN REDDY**
-
----
-
-# ⭐ Conclusion
-
-This project successfully demonstrates how a simple open-source Java application can be transformed into a cleaner, optimized, feature-rich, and more maintainable software project using refactoring techniques and DSA concepts.
+Refactored by:
+`Y. Sai Charan Reddy`
