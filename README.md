@@ -210,4 +210,4 @@ Possible future enhancements:
 
 ---
 Refactored by:
-~Y. Sai Charan Reddy~
+Y. Sai Charan Reddy
