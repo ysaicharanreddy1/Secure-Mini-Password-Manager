@@ -83,18 +83,6 @@ This significantly improves performance for larger datasets.
 
 ---
 
-# Security Improvements
-
-## Implemented Security Features
-
-* SHA-256 Password Hashing
-* Salt Generation using SecureRandom
-* Simulated Two-Factor Authentication
-* Hidden Password Display
-* Strong Password Validation
-
----
-
 # Refactoring Improvements
 
 ## Original Code Problems
@@ -124,18 +112,6 @@ The original project had:
 * Improved console formatting
 * Added validation handling
 
----
-
-## Feature Enhancements
-
-### Added:
-
-* Password Generator
-* Credential Search
-* Credential Deletion
-* Credential Statistics
-* Password Strength Meter
-* Better Console UI
 ---
 
 # Technologies Used
@@ -181,33 +157,3 @@ MiniPasswordManager.java
 ```
 
 ---
-
-# Learning Outcomes
-
-Through this project, the following concepts were learned and implemented:
-
-* Code Refactoring
-* Performance Optimization
-* Data Structures & Algorithms
-* HashMap Optimization
-* Secure Password Hashing
-* Java OOP Design
-* Console Application Development
-* Clean Code Principles
-
----
-
-# Future Improvements
-
-Possible future enhancements:
-
-* File Storage
-* Database Integration
-* GUI Interface
-* AES Encryption
-* Real OTP System
-* Cloud Backup
-
----
-Refactored by:
-Y. Sai Charan Reddy
